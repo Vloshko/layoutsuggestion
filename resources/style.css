@@ -1,0 +1,89 @@
+body{
+  font-family: Helvetica;
+  text-align: center;
+}
+
+html{
+  background-color: black;
+}
+
+h1, h2, h3, p, table, thead, tr, th{
+color: white;
+}
+
+.sec1{
+  color: black;
+  background-image: url("./images/Alice-Macro_2.png");
+  background-repeat: no-repeat;
+}
+
+h1{
+  font-size: 70px;
+  font-weight: bold;
+  color: black;
+}
+
+.menu{
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+}
+
+.price{
+  font-size: 14px;
+  padding-bottom: 5px;
+}
+
+.sec3{
+  font-size: 14px;
+  padding-bottom: 25px;
+  padding-top: 5px;
+}
+
+
+h2.left{
+  text-align: center;
+}
+
+  table.one{
+    margin-left:auto;
+    margin-right:auto;
+    border-collapse: collapse;
+  }
+
+  table.two{
+    padding-top: 200px;
+    float: right;
+    border-bottom: 1px;
+    border-collapse: collapse;
+  }​
+
+  h2.mid{
+    text-align: center;
+    padding-top: 50px;
+
+  }
+
+  .kit{
+    font-size: 14px;
+    padding-top: 200px;
+    text-align: center;
+  }
+
+  .render, .collab{
+    font-size: 14px;
+    padding-top: 50px;
+    text-align: center;
+  }
+
+h2, h3{
+  font-weight: bold;
+}
+
+h2{
+  font-size: 32px;
+}
+
+h3{
+  font-size: 23px;
+}
